@@ -1,0 +1,273 @@
+#myNavbar
+{
+    font-size: 22;
+}
+
+#myNavbar:hover
+{
+    font-size: 25;
+    text-decoration: underline;
+}
+
+.navbar-brand
+{
+    font-size: 25;
+    font-weight: 300;
+    font-family: cursive;
+    font-style: normal;
+}
+
+#home
+{
+    background-color: skyblue;
+    text-align: center;
+}
+
+.homepic
+{
+    border-radius: 25%;
+    height: 550;
+    border: black;
+}
+
+.homeline
+{
+    text-align: center;
+    font-size: 60;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: black;
+}
+
+.homename
+{
+    text-align: center;
+    font-size: 110;
+    color: black;
+    font-family: cursive;
+    text-shadow: black;
+}
+
+.homepara
+{
+    text-align: center;
+    text-decoration: none;
+    font-size: 30;
+    color: black;
+    text-shadow: black;
+}
+
+#about
+{
+    text-align: center;
+    background-color: aqua;
+}
+
+.aboutpic
+{
+    border-radius: 50%;
+    height: 560;
+}
+
+.aboutline
+{
+    text-align: center;
+    font-size: 40;
+    color: black;
+    text-shadow: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.aboutname
+{
+    text-align: center;
+    font-size: 60;
+    color: black;
+    text-shadow: black;
+    font-family: cursive;
+}
+
+.aboutpara
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-size: 35;
+}
+
+#facility
+{
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+.facilityline
+{
+    text-align: center;
+    font-size: 40;
+    color: black;
+    text-shadow: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.facilityname
+{
+    text-align: center;
+    font-size: 60;
+    color: black;
+    text-shadow: black;
+    font-family: cursive;
+    font-weight: 300;
+}
+
+.fp
+{
+    float: left;
+    font-size: 30;
+    text-align: left;
+}
+
+.facilitypic
+{
+    border-radius: 50%;
+    height: 750;
+    text-align: center;
+    align-items: center;
+    width: 800;
+}
+
+#menu
+{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+.menuline
+{
+    text-align: center;
+    font-size: 40;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menuname
+{
+    text-align: center;
+    font-size: 60;
+    font-family: cursive;
+}
+
+.menu1para
+{
+    font-size: 25;
+}
+
+.menu2para
+{
+    font-size: 25;
+    text-align: right;
+}
+
+#location
+{
+    background-color: cyan;
+}
+
+.locationline
+{
+    text-align: center;
+    font-size: 60;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.locationname
+{
+    text-align: center;
+    font-size: 80;
+    font-family: cursive;
+}
+
+.loco
+{
+    width: 100%;
+    height: 770;
+}
+
+#contact
+{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.contactline
+{
+    text-align: center;
+    font-size: 40;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contactname
+{
+    text-align: center;
+    font-size: 60;
+    font-family: cursive;
+}
+
+.hm
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.cc
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.hh
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.hp
+{
+    text-align: center;
+    font-size: 30;
+    font-family: arial black;
+}
+
+.bh1
+{
+    text-align: center;
+    font-size: 30;
+}
+
+.cp
+{
+    border-radius: 50%;
+    height: 400;
+    text-align: center;
+}
+
+.menupic
+{
+    border-radius: 50%;
+    height: 550;
+}
+
+.cp2
+{
+    float: left;
+    height: 400;
+    border-radius: 50%;
+    width: 550;
+}
+
+.cp3
+{
+    float: right;
+    height: 400;
+    border-radius: 50%;
+    width: 550;
+}
